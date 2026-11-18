@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
-<!--
-**aimobixgit/aimobixgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Content creator focused on networking, VPN, the internet and AI.
+I explain how these technologies work and build open-source tools around them.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coming soon: an official open-source client. Stay tuned.
+
+## 🛠 Topics I work on
+
+- Networking and internet protocols
+- VPN and secure connections
+- Artificial intelligence
+- Android tips and tricks
+
+## 📬 Find me
+
+- Instagram: https://www.instagram.com/aimobix1
+- YouTube: https://www.youtube.com/@aimobixnet
+- Telegram: https://t.me/aimobix 
